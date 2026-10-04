@@ -377,6 +377,22 @@ export default function Home() {
     setInput("");
     setLoading(true);
 
+    if (!API_URL) {
+      setError(API_NOT_CONFIGURED_MESSAGE);
+      setMessages((prev) => [
+        ...prev,
+        {
+          id: generateId(),
+          role: "error",
+          text: API_NOT_CONFIGURED_MESSAGE,
+          timestamp: new Date(),
+        },
+      ]);
+      setLoading(false);
+      inputRef.current?.focus();
+      return;
+    }
+
     if (isGreeting) {
       const greetingAssistant: ChatMessage = {
         id: generateId(),
@@ -389,22 +405,6 @@ export default function Home() {
       };
 
       setMessages((prev) => [...prev, greetingAssistant]);
-      setLoading(false);
-      inputRef.current?.focus();
-      return;
-    }
-
-    if (!API_URL) {
-      setError(API_NOT_CONFIGURED_MESSAGE);
-      setMessages((prev) => [
-        ...prev,
-        {
-          id: generateId(),
-          role: "error",
-          text: API_NOT_CONFIGURED_MESSAGE,
-          timestamp: new Date(),
-        },
-      ]);
       setLoading(false);
       inputRef.current?.focus();
       return;
