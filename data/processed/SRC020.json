@@ -1,0 +1,13 @@
+{
+  "source_id": "SRC020",
+  "title": "SEBI - Circular on Total Expense Ratio",
+  "scheme": "All Schemes",
+  "source_url": "https://www.sebi.gov.in/legal/circulars/sep-2018/total-expense-ratio-ter-of-mutual-funds_40276.html",
+  "organization": "SEBI",
+  "source_type": "regulatory_circular",
+  "last_updated": "2018-09-18",
+  "date_accessed": "2026-10-02",
+  "text": "## SEBI Circular - Total Expense Ratio (TER) of Mutual Funds\nCircular No.: SEBI/HO/IMD/DF2/CIR/P/2018/137\nDate: September 18, 2018\n\n## Background\nSEBI reviewed the Total Expense Ratio (TER) structure for mutual funds and issued revised\nguidelines to protect investor interests and ensure cost transparency.\n\n## Key Provisions\n\n## TER Limits for Equity-Oriented Schemes\nAUM up to Rs. 500 crores: TER capped at 2.25%\nAUM next Rs. 250 crores (Rs. 500-750 crores): TER capped at 2.00%\nAUM next Rs. 1,250 crores (Rs. 750-2,000 crores): TER capped at 1.75%\nAUM next Rs. 3,000 crores (Rs. 2,000-5,000 crores): TER capped at 1.60%\nAUM next Rs. 5,000 crores (Rs. 5,000-10,000 crores): TER capped at 1.50%\nAUM on balance (above Rs. 10,000 crores): TER capped at 1.05%\n\n## B30 Incentive\nAn additional TER of up to 30 basis points (0.30%) is allowed if new inflows from beyond top\n30 cities (B30) are at least 30% of gross new inflows.\n\n## Disclosure Requirements\n- AMCs shall disclose TER of each scheme on their website and the AMFI website on a daily basis.\n- Any change in TER must be communicated to investors via notice-cum-addendum.\n\n## Exit Load\nExit load collected by the AMC shall be credited to the scheme. AMC cannot retain exit load.",
+  "char_count": 1234,
+  "seeded": true
+}

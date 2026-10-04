@@ -1,0 +1,13 @@
+{
+  "source_id": "SRC021",
+  "title": "SEBI - ELSS Notification and Lock-in Rules",
+  "scheme": "SBI Magnum Tax Gain Scheme",
+  "source_url": "https://www.sebi.gov.in/legal/circulars/dec-2005/elss-notification_9928.html",
+  "organization": "SEBI",
+  "source_type": "regulatory_circular",
+  "last_updated": "2005-12-28",
+  "date_accessed": "2026-10-02",
+  "text": "## SEBI - Equity Linked Savings Scheme (ELSS) Regulations\n\n## ELSS Lock-in Period\nAs per the ELSS notification and SEBI regulations, all Equity Linked Savings Schemes (ELSS)\nare required to have a statutory lock-in period of 3 years from the date of allotment of units.\n\n## Key Provisions\n1. Lock-in period: 3 years from date of allotment (mandatory, cannot be waived)\n2. No redemption, switch-out, or transfer is permitted during the lock-in period\n3. The lock-in applies to each installment separately (relevant for SIP investors)\n4. After the 3-year lock-in, units can be freely redeemed\n\n## Tax Benefit\nELSS investments are eligible for deduction under Section 80C of the Income Tax Act, 1961.\nMaximum deduction: Rs. 1,50,000 per financial year.\n\n## SEBI Oversight\nAll ELSS schemes must be registered with SEBI and comply with SEBI Mutual Fund\nRegulations, 1996 and the ELSS notification.\n\n## Section 80C Context\nELSS is one of several Section 80C instruments. Unlike PPF (15-year lock-in) or NSC\n(5-year lock-in), ELSS has the shortest lock-in of 3 years among common 80C instruments.",
+  "char_count": 1089,
+  "seeded": true
+}

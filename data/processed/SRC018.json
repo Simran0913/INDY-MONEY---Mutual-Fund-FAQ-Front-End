@@ -1,0 +1,13 @@
+{
+  "source_id": "SRC018",
+  "title": "AMFI - Riskometer Explained",
+  "scheme": "All Schemes",
+  "source_url": "https://www.amfiindia.com/investor-corner/knowledge-center/riskometer.html",
+  "organization": "AMFI",
+  "source_type": "educational_page",
+  "last_updated": "2024-01-01",
+  "date_accessed": "2026-10-02",
+  "text": "## Riskometer - AMFI (Association of Mutual Funds in India)\n\nThe Riskometer is a standardised risk measurement tool mandated by SEBI for all mutual fund\nschemes in India. It helps investors understand the risk level of a mutual fund scheme.\n\n## Riskometer Levels (6 levels)\n1. Low: Principal at Low Risk\n2. Low to Moderate: Principal at Low to Moderate Risk\n3. Moderate: Principal at Moderate Risk\n4. Moderately High: Principal at Moderately High Risk\n5. High: Principal at High Risk\n6. Very High: Principal at Very High Risk\n\n## Riskometer for SBI Mutual Fund Schemes\nSBI Bluechip Fund: Very High (equity large cap scheme)\nSBI Magnum Tax Gain Scheme: Very High (ELSS equity scheme)\nSBI Liquid Fund: Low to Moderate (liquid debt scheme, up to 91-day maturity)\nSBI Small Cap Fund: Very High (equity small cap scheme)\nSBI Balanced Advantage Fund: Very High (dynamic asset allocation fund)\n\n## How is the Riskometer Determined?\nThe risk level is determined based on SEBI's product labelling guidelines.\nFactors include: asset class (equity/debt), market cap, credit quality, duration, and liquidity.\n\n## Updated Riskometer (SEBI Circular 2021)\nSEBI revised the riskometer guidelines in 2020-21 requiring monthly recalibration of risk\nlevels based on the scheme's actual portfolio. Schemes must disclose any change in riskometer.",
+  "char_count": 1325,
+  "seeded": true
+}

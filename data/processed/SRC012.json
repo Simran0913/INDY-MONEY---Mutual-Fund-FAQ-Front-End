@@ -1,0 +1,13 @@
+{
+  "source_id": "SRC012",
+  "title": "SBI MF - How to Download Account Statement",
+  "scheme": "All Schemes",
+  "source_url": "https://www.sbimf.com/en-us/investor-services/account-statement",
+  "organization": "SBI Mutual Fund",
+  "source_type": "faq_page",
+  "last_updated": "2024-03-31",
+  "date_accessed": "2026-10-02",
+  "text": "## How to Download Your SBI MF Account Statement\n\nInvestors can download their SBI Mutual Fund account statement through the following methods:\n\n## Method 1: SBI MF Website\n1. Visit www.sbimf.com\n2. Click on 'Investor Services' or 'My Portfolio'\n3. Log in with your registered email ID/folio number and password\n4. Navigate to 'Account Statement'\n5. Select the date range and scheme\n6. Download the statement in PDF format\n\n## Method 2: CAMS Online (for CAMS-serviced folios)\nSBI Mutual Fund folios are serviced by CAMS (Computer Age Management Services).\n1. Visit www.camsonline.com\n2. Click on 'Investor Services' → 'Mailback Services' → 'Account Statement'\n3. Enter your registered email ID and PAN\n4. You will receive the statement on your registered email address\n\n## Method 3: myCAMS App\n1. Download the myCAMS mobile app\n2. Log in using your registered mobile number or email\n3. Navigate to 'Reports' → 'Account Statement'\n4. Download or email the statement\n\n## Method 4: Email Request\nSend an email to investor@sbimf.com with:\n- Your registered email ID\n- Folio number (do not share PAN or Aadhaar in email)\n- Date range for the statement\n\n## Important\nDo NOT share your PAN, Aadhaar number, bank account number, or OTP with anyone while\nrequesting your statement.",
+  "char_count": 1272,
+  "seeded": true
+}

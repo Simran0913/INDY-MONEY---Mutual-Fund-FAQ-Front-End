@@ -1,0 +1,13 @@
+{
+  "source_id": "SRC019",
+  "title": "AMFI - Total Expense Ratio (TER) Disclosure",
+  "scheme": "All Schemes",
+  "source_url": "https://www.amfiindia.com/research-information/other-data/scheme-wise-ratio",
+  "organization": "AMFI",
+  "source_type": "regulatory_page",
+  "last_updated": "2024-04-30",
+  "date_accessed": "2026-10-02",
+  "text": "## Total Expense Ratio (TER) - AMFI Disclosure\n\nAMFI publishes scheme-wise Total Expense Ratio (TER) on its website on a monthly basis as\nmandated by SEBI.\n\n## What is TER?\nThe Total Expense Ratio (TER) is the annual cost charged by the mutual fund to manage\nthe scheme. It includes management fees, administrative costs, registrar fees, and\ndistribution commissions (for Regular Plans).\n\n## TER Limits (as per SEBI Circular September 2018)\nFor equity-oriented schemes:\n- Up to Rs. 500 crores AUM: Maximum 2.25% TER\n- Next Rs. 250 crores AUM: Maximum 2.00% TER\n- Next Rs. 1,250 crores AUM: Maximum 1.75% TER\n- Next Rs. 3,000 crores AUM: Maximum 1.60% TER\n- Next Rs. 5,000 crores AUM: Maximum 1.50% TER\n- On balance AUM: Maximum 1.05% TER\n\nAdditional TER up to 30 bps (0.30%) can be charged if new inflows from B30 cities exceed 30%.\n\n## Direct vs Regular Plan TER\nDirect Plans have lower TER because no distributor commission is included.\nRegular Plans have higher TER due to distributor commission embedded in TER.\n\n## TER Disclosure\nTER is disclosed on the AMFI website: www.amfiindia.com under 'Research & Information'.\nAMCs must update TER disclosures on a daily basis.",
+  "char_count": 1173,
+  "seeded": true
+}

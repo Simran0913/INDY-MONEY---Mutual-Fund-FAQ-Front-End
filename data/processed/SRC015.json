@@ -1,0 +1,13 @@
+{
+  "source_id": "SRC015",
+  "title": "SBI MF - Investor FAQs",
+  "scheme": "All Schemes",
+  "source_url": "https://www.sbimf.com/en-us/investor-services/faqs",
+  "organization": "SBI Mutual Fund",
+  "source_type": "faq_page",
+  "last_updated": "2024-03-31",
+  "date_accessed": "2026-10-02",
+  "text": "## SBI Mutual Fund - Frequently Asked Questions\n\n## What is a folio number?\nA folio number is a unique identification number assigned to an investor when they first invest\nin an SBI Mutual Fund scheme. It acts like an account number for your SBI MF investments.\n\n## What is NAV?\nNAV (Net Asset Value) is the per-unit price of a mutual fund scheme. It is calculated as:\nNAV = (Total Assets - Total Liabilities) / Total Number of Units Outstanding.\n\n## What is the difference between Direct Plan and Regular Plan?\nDirect Plan: Investor invests directly with the AMC without going through a distributor.\nDirect Plans have lower expense ratios as no distributor commission is paid.\nRegular Plan: Investor invests through a distributor/broker. Regular Plans have higher\nexpense ratios due to distributor commission.\n\n## What is IDCW?\nIDCW stands for Income Distribution cum Capital Withdrawal. It is the option where the fund\ndistributes income to investors periodically (previously called Dividend option).\n\n## How do I update my bank account details?\nVisit sbimf.com → Investor Services → Bank Account Update, or visit the nearest SBI MF\ninvestor service centre with a cancelled cheque.\n\n## What is the cut-off time for mutual fund purchases?\nFor most schemes: 3:00 PM on a business day.\nFor liquid and overnight funds: 1:30 PM on a business day.\n\n## How do I check my SBI MF balance?\nLog in to www.sbimf.com or the SBI MF app to check your portfolio balance and NAV.\n\n## Can I invest without KYC?\nNo. KYC (Know Your Customer) compliance is mandatory for all mutual fund investments\nas per SEBI regulations. Complete your KYC at a KRA (KYC Registration Agency).\n\n## What documents are needed for KYC?\nIdentity proof (PAN card is mandatory), address proof, and a passport-size photograph.",
+  "char_count": 1784,
+  "seeded": true
+}

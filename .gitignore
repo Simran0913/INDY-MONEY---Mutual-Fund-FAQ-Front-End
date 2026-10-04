@@ -4,3 +4,10 @@ out/
 .env*
 !.env.example
 *.tsbuildinfo
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+logs/
+data/raw/

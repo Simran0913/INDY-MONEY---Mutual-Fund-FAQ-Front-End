@@ -1,0 +1,13 @@
+{
+  "source_id": "SRC023",
+  "title": "AMFI - Exit Load Information",
+  "scheme": "All Schemes",
+  "source_url": "https://www.amfiindia.com/investor-corner/knowledge-center/exit-load.html",
+  "organization": "AMFI",
+  "source_type": "educational_page",
+  "last_updated": "2024-01-01",
+  "date_accessed": "2026-10-02",
+  "text": "## Exit Load - AMFI (Association of Mutual Funds in India)\n\nExit load is a fee charged by a mutual fund when an investor redeems or switches out of\na scheme before a specified period.\n\n## Purpose of Exit Load\nExit load discourages early redemptions and helps protect long-term investors from\nthe costs associated with frequent trading/redemption activity.\n\n## SEBI Rules on Exit Load\nAs per SEBI regulations, all exit load collected by the AMC must be credited back to the\nscheme and cannot be retained by the AMC.\n\n## Exit Load for SBI Mutual Fund Schemes\n\nSBI Bluechip Fund:\n1% exit load on units in excess of 10% of investment redeemed within 1 year.\nNo exit load on first 10% of investment.\nNo exit load after 1 year.\n\nSBI Magnum Tax Gain Scheme (ELSS):\nNil exit load (scheme has mandatory 3-year lock-in; no exit is possible during lock-in).\n\nSBI Liquid Fund (Graded exit load as per SEBI circular):\nDay 1: 0.0070%, Day 2: 0.0065%, Day 3: 0.0060%\nDay 4: 0.0055%, Day 5: 0.0050%, Day 6: 0.0045%\nDay 7 onwards: Nil\n\nSBI Small Cap Fund:\n1% exit load on units in excess of 10% of investment redeemed within 1 year.\nNo exit load on first 10% of investment.\nNo exit load after 1 year.\n\nSBI Balanced Advantage Fund:\n1% exit load on units in excess of 10% of investment redeemed within 1 year.\nNo exit load on first 10% of investment.\nNo exit load after 1 year.\n\n## How to Calculate Exit Load\nExit Load Amount = Units Redeemed × NAV at Redemption × Exit Load Rate (%)",
+  "char_count": 1464,
+  "seeded": true
+}

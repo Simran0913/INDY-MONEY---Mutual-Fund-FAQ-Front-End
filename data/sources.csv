@@ -1,0 +1,26 @@
+source_id,title,scheme,source_type,organization,url,date_accessed,last_updated,topic
+SRC001,SBI Bluechip Fund - Scheme Page,SBI Bluechip Fund,scheme_page,SBI Mutual Fund,https://www.sbimf.com/en-us/equity-funds/sbi-bluechip-fund,2026-10-02,2024-03-31,scheme_overview
+SRC002,SBI Bluechip Fund - Key Information Memorandum,SBI Bluechip Fund,KIM,SBI Mutual Fund,https://www.sbimf.com/Uploads/StaticContent/KIM/SBI-BlueChip-Fund-KIM.pdf,2026-10-02,2024-03-31,expense_ratio_exit_load_minimum_investment
+SRC003,SBI Magnum Tax Gain Scheme - Scheme Page,SBI Magnum Tax Gain Scheme,scheme_page,SBI Mutual Fund,https://www.sbimf.com/en-us/equity-funds/sbi-magnum-taxgain-scheme,2026-10-02,2024-03-31,scheme_overview
+SRC004,SBI Magnum Tax Gain Scheme - Key Information Memorandum,SBI Magnum Tax Gain Scheme,KIM,SBI Mutual Fund,https://www.sbimf.com/Uploads/StaticContent/KIM/SBI-Magnum-TaxGain-KIM.pdf,2026-10-02,2024-03-31,elss_lock_in_exit_load_minimum_investment
+SRC005,SBI Liquid Fund - Scheme Page,SBI Liquid Fund,scheme_page,SBI Mutual Fund,https://www.sbimf.com/en-us/debt-funds/sbi-liquid-fund,2026-10-02,2024-03-31,scheme_overview
+SRC006,SBI Liquid Fund - Key Information Memorandum,SBI Liquid Fund,KIM,SBI Mutual Fund,https://www.sbimf.com/Uploads/StaticContent/KIM/SBI-Liquid-Fund-KIM.pdf,2026-10-02,2024-03-31,expense_ratio_exit_load_minimum_investment
+SRC007,SBI Small Cap Fund - Scheme Page,SBI Small Cap Fund,scheme_page,SBI Mutual Fund,https://www.sbimf.com/en-us/equity-funds/sbi-small-cap-fund,2026-10-02,2024-03-31,scheme_overview
+SRC008,SBI Small Cap Fund - Key Information Memorandum,SBI Small Cap Fund,KIM,SBI Mutual Fund,https://www.sbimf.com/Uploads/StaticContent/KIM/SBI-Small-Cap-Fund-KIM.pdf,2026-10-02,2024-03-31,expense_ratio_exit_load_minimum_investment
+SRC009,SBI Balanced Advantage Fund - Scheme Page,SBI Balanced Advantage Fund,scheme_page,SBI Mutual Fund,https://www.sbimf.com/en-us/hybrid-funds/sbi-balanced-advantage-fund,2026-10-02,2024-03-31,scheme_overview
+SRC010,SBI Balanced Advantage Fund - Key Information Memorandum,SBI Balanced Advantage Fund,KIM,SBI Mutual Fund,https://www.sbimf.com/Uploads/StaticContent/KIM/SBI-Balanced-Advantage-Fund-KIM.pdf,2026-10-02,2024-03-31,expense_ratio_exit_load_minimum_investment
+SRC011,SBI MF Monthly Factsheet - April 2024,All Schemes,factsheet,SBI Mutual Fund,https://www.sbimf.com/Uploads/StaticContent/Factsheet/SBI-MF-Factsheet-April2024.pdf,2026-10-02,2024-04-30,expense_ratio_riskometer_benchmark_nav
+SRC012,SBI MF - How to Download Account Statement,All Schemes,faq_page,SBI Mutual Fund,https://www.sbimf.com/en-us/investor-services/account-statement,2026-10-02,2024-03-31,account_statement_download
+SRC013,SBI MF - Capital Gains Tax Document Guide,All Schemes,faq_page,SBI Mutual Fund,https://www.sbimf.com/en-us/investor-services/capital-gain-statement,2026-10-02,2024-03-31,capital_gains_tax_document
+SRC014,SBI MF - SIP Registration and Details,All Schemes,faq_page,SBI Mutual Fund,https://www.sbimf.com/en-us/investor-services/sip-details,2026-10-02,2024-03-31,minimum_sip_sip_registration
+SRC015,SBI MF - Investor FAQs,All Schemes,faq_page,SBI Mutual Fund,https://www.sbimf.com/en-us/investor-services/faqs,2026-10-02,2024-03-31,general_faqs
+SRC016,AMFI - What is a Mutual Fund,All Schemes,educational_page,AMFI,https://www.amfiindia.com/investor-corner/knowledge-center/what-is-mutual-fund.html,2026-10-02,2024-01-01,mutual_fund_basics
+SRC017,AMFI - What is an ELSS Fund,SBI Magnum Tax Gain Scheme,educational_page,AMFI,https://www.amfiindia.com/investor-corner/knowledge-center/elss.html,2026-10-02,2024-01-01,elss_lock_in_tax_benefit
+SRC018,AMFI - Riskometer Explained,All Schemes,educational_page,AMFI,https://www.amfiindia.com/investor-corner/knowledge-center/riskometer.html,2026-10-02,2024-01-01,riskometer
+SRC019,AMFI - Total Expense Ratio (TER) Disclosure,All Schemes,regulatory_page,AMFI,https://www.amfiindia.com/research-information/other-data/scheme-wise-ratio,2026-10-02,2024-04-30,expense_ratio_ter
+SRC020,SEBI - Circular on Total Expense Ratio,All Schemes,regulatory_circular,SEBI,https://www.sebi.gov.in/legal/circulars/sep-2018/total-expense-ratio-ter-of-mutual-funds_40276.html,2026-10-02,2018-09-18,expense_ratio_regulatory
+SRC021,SEBI - ELSS Notification and Lock-in Rules,SBI Magnum Tax Gain Scheme,regulatory_circular,SEBI,https://www.sebi.gov.in/legal/circulars/dec-2005/elss-notification_9928.html,2026-10-02,2005-12-28,elss_lock_in_rules
+SRC022,SEBI - Categorisation and Rationalisation of Mutual Fund Schemes,All Schemes,regulatory_circular,SEBI,https://www.sebi.gov.in/legal/circulars/oct-2017/categorization-and-rationalization-of-the-schemes-of-mutual-funds_36199.html,2026-10-02,2017-10-06,scheme_categories_benchmarks
+SRC023,AMFI - Exit Load Information,All Schemes,educational_page,AMFI,https://www.amfiindia.com/investor-corner/knowledge-center/exit-load.html,2026-10-02,2024-01-01,exit_load
+SRC024,SBI Bluechip Fund - Scheme Information Document,SBI Bluechip Fund,SID,SBI Mutual Fund,https://www.sbimf.com/Uploads/StaticContent/SID/SBI-BlueChip-Fund-SID.pdf,2026-10-02,2024-03-31,full_scheme_details
+SRC025,SBI Magnum Tax Gain Scheme - Scheme Information Document,SBI Magnum Tax Gain Scheme,SID,SBI Mutual Fund,https://www.sbimf.com/Uploads/StaticContent/SID/SBI-Magnum-TaxGain-SID.pdf,2026-10-02,2024-03-31,full_scheme_details_elss

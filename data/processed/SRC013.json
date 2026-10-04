@@ -1,0 +1,13 @@
+{
+  "source_id": "SRC013",
+  "title": "SBI MF - Capital Gains Tax Document Guide",
+  "scheme": "All Schemes",
+  "source_url": "https://www.sbimf.com/en-us/investor-services/capital-gain-statement",
+  "organization": "SBI Mutual Fund",
+  "source_type": "faq_page",
+  "last_updated": "2024-03-31",
+  "date_accessed": "2026-10-02",
+  "text": "## Capital Gains Statement - SBI Mutual Fund\n\nA capital gains statement provides details of all redemptions/switches made during a financial\nyear, along with the capital gains or losses for tax filing purposes.\n\n## How to Download Capital Gains Statement\n\n## Method 1: CAMS Online\n1. Visit www.camsonline.com\n2. Click on 'Investor Services' → 'Mailback Services' → 'Capital Gains Statement'\n3. Enter your PAN and registered email ID\n4. Select the financial year\n5. You will receive the capital gains statement on your registered email address\n\n## Method 2: SBI MF Website\n1. Visit www.sbimf.com → Investor Services\n2. Log in to your account\n3. Navigate to 'Tax Corner' or 'Capital Gains'\n4. Select financial year\n5. Download statement\n\n## Method 3: myCAMS App\n1. Open myCAMS app → Reports → Capital Gains Statement\n2. Select financial year and generate report\n\n## Types of Capital Gains for Mutual Funds\nShort-Term Capital Gains (STCG): Gains on equity units held for less than 12 months.\nLong-Term Capital Gains (LTCG): Gains on equity units held for 12 months or more.\nFor ELSS funds: Units have 3-year lock-in; gains after 3 years are treated as LTCG.\n\n## Important Note\nFor specific tax advice, please consult a registered tax professional. This statement provides\ndata for your tax calculation; it is not tax advice.",
+  "char_count": 1321,
+  "seeded": true
+}

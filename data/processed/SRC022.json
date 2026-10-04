@@ -1,0 +1,13 @@
+{
+  "source_id": "SRC022",
+  "title": "SEBI - Categorisation and Rationalisation of Mutual Fund Schemes",
+  "scheme": "All Schemes",
+  "source_url": "https://www.sebi.gov.in/legal/circulars/oct-2017/categorization-and-rationalization-of-the-schemes-of-mutual-funds_36199.html",
+  "organization": "SEBI",
+  "source_type": "regulatory_circular",
+  "last_updated": "2017-10-06",
+  "date_accessed": "2026-10-02",
+  "text": "## SEBI Circular - Categorization and Rationalization of Mutual Fund Schemes\nCircular No.: SEBI/HO/IMD/DF3/CIR/P/2017/114\nDate: October 6, 2017\n\n## Purpose\nTo bring uniformity in the characteristics of similar type of schemes launched by different\nmutual funds, to ensure that an investor of mutual funds is able to evaluate the different\noptions available to him and take informed decisions.\n\n## Scheme Categories\n\n## Equity Schemes\nLarge Cap Fund: Minimum 80% investment in large cap stocks (top 100 companies by market cap)\nMid Cap Fund: Minimum 65% in mid cap stocks (101st-250th companies by market cap)\nSmall Cap Fund: Minimum 65% in small cap stocks (251st company onwards by market cap)\nLarge & Mid Cap Fund: Minimum 35% each in large cap and mid cap stocks\nELSS: Minimum 80% in equity; 3-year lock-in; eligible for Section 80C deduction\nMulti Cap Fund: Minimum 25% each in large cap, mid cap, and small cap\n\n## Debt Schemes\nLiquid Fund: Investment in debt and money market instruments with maturity up to 91 days\nOvernight Fund: Investment in overnight securities\n\n## Hybrid Schemes\nBalanced Advantage / Dynamic Asset Allocation: Investment in equity and debt dynamically managed\nConservative Hybrid Fund: 10-25% equity, 75-90% debt\n\n## Benchmark Requirement\nEach scheme category must use the appropriate designated benchmark index.\nLarge Cap: S&P BSE 100 / Nifty 100\nSmall Cap: S&P BSE 250 SmallCap / Nifty SmallCap 250\nLiquid: NIFTY Liquid Index",
+  "char_count": 1456,
+  "seeded": true
+}
