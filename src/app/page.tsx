@@ -56,9 +56,8 @@ interface SchemeInfo {
   name: string;
 }
 
-const API_URL =
-  process.env.NEXT_PUBLIC_API_URL ??
-  (process.env.NODE_ENV === "development" ? "http://localhost:8000" : "");
+const API_URL = process.env.NEXT_PUBLIC_API_URL ?? "https://indy-money-api.onrender.com";
+
 const API_NOT_CONFIGURED_MESSAGE =
   "The chatbot service is not connected yet. Add the NEXT_PUBLIC_API_URL repository variable and redeploy.";
 
