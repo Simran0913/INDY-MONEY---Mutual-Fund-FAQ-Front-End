@@ -38,7 +38,7 @@ interface ChatMessage {
   category?: string;
   isSafe?: boolean;
   isValid?: boolean;
-  timestamp: Date;
+  timestamp?: Date;
 }
 
 interface ApiResponse {
@@ -198,9 +198,11 @@ function AssistantMessage({ msg }: { msg: ChatMessage }) {
           </div>
         )}
 
-        <p className="mt-2 px-1 text-[11px] text-slate-400">
-          {msg.timestamp.toLocaleTimeString([], { hour: "2-digit", minute: "2-digit" })}
-        </p>
+        {msg.timestamp ? (
+          <p className="mt-2 px-1 text-[11px] text-slate-400">
+            {msg.timestamp.toLocaleTimeString([], { hour: "2-digit", minute: "2-digit" })}
+          </p>
+        ) : null}
       </div>
     </div>
   );
@@ -214,9 +216,11 @@ function UserMessage({ msg }: { msg: ChatMessage }) {
         <div className="rounded-2xl rounded-tr-sm bg-gradient-to-br from-blue-600 to-blue-700 px-4 py-3 text-sm leading-7 text-white shadow-sm">
           <p className="whitespace-pre-wrap">{msg.text}</p>
         </div>
-        <p className="mt-2 text-right text-[11px] text-slate-400">
-          {msg.timestamp.toLocaleTimeString([], { hour: "2-digit", minute: "2-digit" })}
-        </p>
+        {msg.timestamp ? (
+          <p className="mt-2 text-right text-[11px] text-slate-400">
+            {msg.timestamp.toLocaleTimeString([], { hour: "2-digit", minute: "2-digit" })}
+          </p>
+        ) : null}
       </div>
       <div className="flex h-8 w-8 shrink-0 items-center justify-center rounded-full bg-slate-200 text-[10px] font-bold text-slate-700">
         U
@@ -228,7 +232,7 @@ function UserMessage({ msg }: { msg: ChatMessage }) {
 export default function Home() {
   const [messages, setMessages] = useState<ChatMessage[]>([
     {
-      id: generateId(),
+      id: "welcome-message",
       role: "assistant",
       text: API_URL
         ? "Hi! I'm your Facts-Only Mutual Fund FAQ Assistant.\nI can answer factual questions about mutual fund schemes using verified sources.\nChoose a category below or ask anything about the selected scheme."
@@ -236,7 +240,6 @@ export default function Home() {
       category: "FACTUAL_ALLOWED",
       isSafe: true,
       isValid: true,
-      timestamp: new Date(),
     },
   ]);
   const [input, setInput] = useState("");
